@@ -1,0 +1,15 @@
+[package]
+name = "leafpad3"
+version = "0.1.0"
+authors = ["EEVV <0eevv0@gmail.com>"]
+
+[dependencies]
+
+[dependencies.gtk]
+version = "0.4.1"
+features = ["v3_16"]
+
+[dependencies.sourceview]
+version = "0.4.0"
+
+
